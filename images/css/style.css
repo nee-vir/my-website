@@ -1,0 +1,162 @@
+
+body{
+  text-align: center;
+  margin: 0;
+  font-family:"Merriweather",serif;
+}
+
+
+.profile{
+  margin-top:50px;
+  line-height: 2;
+}
+
+.intro{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  color: #40514E;
+}
+
+.dots-line{
+
+  width: 10%;
+  border-style: none;
+  border-top: dotted;
+  border-width: 10px;
+  margin-top: 100px;
+  border-color: #cceabb;
+  margin-bottom: 100px;
+}
+
+
+
+.first-skill{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.second-skill{
+
+  float: right;
+
+  margin-left: 30px;
+
+  width: 25%;
+
+}
+
+.me{
+  font-size: 1.875em;
+  padding: 10px;
+  color: #66BFBF;
+}
+
+.programmer{
+
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF;
+}
+
+h3{
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+}
+
+.top-container{
+  font-family: "Architects Daughter",cursive;
+  background-color: #EAF6F6;
+  font-size:1.875em;
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+  color:#11999E;
+  background-color: #66BFBF;
+  padding: 50px 0 50px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  padding-top: 50px;
+  font-size: 0.75rem;
+}
+.top_cloud{
+  position: relative;
+  left: 200px;
+  padding-top: 50px;
+}
+
+.bottom_cloud{
+  position: absolute;
+  left: 450px;
+}
+
+.mountain{
+  position: relative;
+  top: 50px;
+  margin-bottom:50px
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+
+.btn{
+  box-shadow:inset 0px 1px 0px 0px #dcecfb;
+	background:linear-gradient(to bottom, #bddbfa 5%, #11999E 100%);
+	background-color: #11999E;
+	border-radius:3px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+  margin-top: 10px;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+
+.btn:hover{
+  background:linear-gradient(to bottom, #80b5ea 5%, #bddbfa 100%);
+	background-color:#80b5ea;
+}
+
+.contact-me{
+  width: 40%;
+  margin: 0 auto 0 auto;
+  margin-bottom: 30px;
+}
+
+
+.programmer{
+  margin-top: 0;
+}
+
+.footer-link{
+  margin: 5px;
+  text-decoration: none;
+}
